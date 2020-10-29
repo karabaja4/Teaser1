@@ -13,6 +13,5 @@ The exercise is as follows:
 
 The end result would be the refactored class which would improve maintainability and readability. The code structure and the thinking behind it is more important than the functionality itself, which would only count as extra points.
 
-
 For help with debugging TypeScript with Visual Studio Code, please refer to the following documentation:
 https://code.visualstudio.com/docs/typescript/typescript-debugging
