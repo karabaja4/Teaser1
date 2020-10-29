@@ -10,3 +10,6 @@ The exercise is as follows:
 **CAUTION! The class was written by inexperienced developer, and it's possible you encounter bugs in the functionality (it may not even run at first!). Please fix any bugs you encounter.**
 
 Note: The code structure and the thinking behind it is more important than the functionality itself.
+
+For help with debugging TypeScript with Visual Studio Code, please refer to the following documentation:
+https://code.visualstudio.com/docs/typescript/typescript-debugging
