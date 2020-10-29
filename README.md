@@ -15,7 +15,7 @@ The end result would be the refactored class which would improve maintainability
 
 ### FAQ
 
-* How can I debugg the code?
+* How can I debug the code?
 
 For help with debugging TypeScript with Visual Studio Code, please refer to the following documentation:
 https://code.visualstudio.com/docs/typescript/typescript-debugging
