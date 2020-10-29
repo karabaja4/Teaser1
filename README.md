@@ -9,9 +9,13 @@ The exercise is as follows:
 
 **CAUTION! The class was written by inexperienced developer, and it's possible you encounter bugs in the functionality (it may not even run at first!). Please fix any bugs you encounter.**
 
-## Expected result
+### Expected result
 
 The end result would be the refactored class which would improve maintainability and readability. The code structure and the thinking behind it is more important than the functionality itself, which would only count as extra points.
+
+### FAQ
+
+* How can I debugg the code?
 
 For help with debugging TypeScript with Visual Studio Code, please refer to the following documentation:
 https://code.visualstudio.com/docs/typescript/typescript-debugging
