@@ -1,4 +1,4 @@
-module TeaserSPaceName {
+export module TeaserSPaceName {
     export class Teaser {
         public Controls: Array<boolean>;
         public panelView;

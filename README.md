@@ -4,5 +4,7 @@ You are given a real-life example of a code, written in TypeScript, which is wri
 
 The exercise is as follows:
 
-1) Figure out what is the functionality of a `Teaser` class in `method.ts` file.
+1) Reverse-engineer what was the desired functionality of a `Teaser` class in `method.ts` file.
 2) Refactor the class to the best of your ability.
+
+**CAUTION! The class was written by inexperienced developer, and it's possible you encounter bugs in the functionality (it may not even run at first!). Please fix any bugs you encounter.**
